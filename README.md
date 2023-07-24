@@ -1,5 +1,5 @@
 # Tiffany Hrabusa's Writing Portfolio
-Welcome. This repository contains samples of my written work.
+Welcome! This repository contains samples of my written work.
 
 ## Who I am
 I am a writer and information professional. After earning my MLIS degree, I spent more than a decade conducting complex conflict searches, performing detailed legal research, and mastering multiple, ever-changing technologies. 
