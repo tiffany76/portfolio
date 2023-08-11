@@ -9,7 +9,7 @@ I have since earned a [Technical Communication certificate from UC Berkeley](htt
 ## What I do
 I connect stakeholders to data and information. My job is to produce and provide information that is well organized and well written. I find the gaps and fill them. I recognize the inaccuracies and correct them. I write for my audience and guide them.
 
-In addition to my open-source contributions, this repository includes sample writing pieces that demonstrate what I can do. The [expository](/expository/) folder contains research-based work that explains a topic. The [instructional](/instructional/) folder contains task-oriented and educational material, and the [persuasive](/persuasive/) folder holds papers written to convince the audience to take action.
+This repository includes sample writing pieces that demonstrate what I can do. The [expository](/expository/) folder contains research-based work that explains a topic. The [instructional](/instructional/) folder contains task-oriented and educational material, and the [persuasive](/persuasive/) folder holds papers written to convince the audience to take action.
 
 ## How I do it
 I never stop learning. By making myself the student, time and time again, I know exactly how it feels to study a topic as a novice. I understand how uncertainty impedes understanding and how frustration with poorly written documentation bars learning. I approach every writing project with empathy based on my own personal experience, and I strive to clarify complex concepts and hasten information uptake.
