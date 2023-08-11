@@ -1,6 +1,6 @@
 # Expository Writing
 
-Examples of my expository writing are grouped in this folder. If GitHub has difficulty rendering the PDFs, you can download a copy of each file by using the download icon ![download icon](/download.png) found on the right side of file page.
+Examples of my expository writing are grouped in this folder. If GitHub has difficulty rendering the PDFs, you can download a copy of each file by using the download icon ![download icon](/download.png) found on the right side of the file page.
 
 ## [Library history paper (2009)](2009_library_history_paper.pdf)
 
